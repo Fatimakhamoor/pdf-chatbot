@@ -1,0 +1,22 @@
+# Environment variables (Groq API Key ko safe rakhne ke liye)
+.env
+.env.*
+
+# Python Virtual Environment (Lightweight deployment ke liye)
+venv/
+env/
+ENV/
+*.venv
+
+# Python Cache & Bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Code Editor Settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
