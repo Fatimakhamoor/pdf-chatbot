@@ -3,4 +3,5 @@ python-dotenv
 groq
 langchain
 langchain-groq
-PyPDF2
+langchain-core
+pypdf
